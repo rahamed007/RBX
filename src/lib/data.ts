@@ -29,7 +29,7 @@ export const players: Player[] = [
   {
     slug: 'cmx',
     handle: 'CMX',
-    realName: 'Mehedi Hasan Chowdhury',
+    realName: 'MD Khaled Mahmud',
     role: 'Captain',
     type: 'Attack',
     age: 24,
@@ -59,9 +59,9 @@ export const players: Player[] = [
   {
     slug: 'shadow-sf',
     handle: 'Shadow SF',
-    realName: 'Shahriar Farhan',
+    realName: 'Shakib Ferdous',
     role: 'Founder & Vice Captain',
-    type: 'Stamina',
+    type: 'Balance',
     age: 27,
     city: 'Dhaka',
     joined: '2023',
@@ -88,7 +88,7 @@ export const players: Player[] = [
   {
     slug: 'blader-igris',
     handle: 'Blader Igris',
-    realName: 'Igris Mahmud',
+    realName: 'Zidan Khan',
     role: 'Vanguard',
     type: 'Attack',
     age: 23,
@@ -100,7 +100,7 @@ export const players: Player[] = [
       'RBX’s vanguard and the team’s opening anchor, Igris treats every first round like a statement. His iron-fisted launches and ruthless ring-outs earned him a reputation as the fastest draw in the squad.',
       'From the G3 Dhaka Masters podium to Bangladesh’s first hosted international — the Dhaka Dawn International — Igris carries the team’s aggressive identity into every arena he steps into.',
     ],
-    signatureBey: 'Igris Inferno Venom-7',
+    signatureBey: 'dran strike 360 RUSH',
     stats: { attack: 92, burst: 86, stamina: 74, control: 80 },
     podium: { first: 9, second: 7, third: 10 },
     tournaments: [
@@ -115,7 +115,7 @@ export const players: Player[] = [
   {
     slug: 'tamim-x',
     handle: 'Tamim X',
-    realName: 'Tamim Ahmed Khan',
+    realName: 'Tamim Arabi',
     role: 'Striker',
     type: 'Attack',
     age: 21,
@@ -142,7 +142,7 @@ export const players: Player[] = [
   {
     slug: 'nfs-x',
     handle: 'NFS X',
-    realName: 'Naim Farid Shuvo',
+    realName: 'Nafees Rahman ',
     role: 'Controller',
     type: 'Balance',
     age: 22,
@@ -168,7 +168,7 @@ export const players: Player[] = [
   {
     slug: 'omnix',
     handle: 'Omnix',
-    realName: 'Omar Naim',
+    realName: 'Sayham Rhaman',
     role: 'Strategist',
     type: 'Balance',
     age: 25,
@@ -195,7 +195,7 @@ export const players: Player[] = [
   {
     slug: 'androx',
     handle: 'AndroX',
-    realName: 'Andrab Hossain',
+    realName: 'Al Mussabir Ahmed',
     role: 'Powerhouse',
     type: 'Attack',
     age: 26,
@@ -221,7 +221,7 @@ export const players: Player[] = [
   {
     slug: 'rayn',
     handle: 'Rayn',
-    realName: 'Rayan Karim',
+    realName: 'Rayan Ahmed',
     role: 'Flanker',
     type: 'Stamina',
     age: 20,
@@ -247,7 +247,7 @@ export const players: Player[] = [
   {
     slug: 'blader-17',
     handle: 'Blader 17',
-    realName: 'Fahim Reza',
+    realName: 'Didar Imran',
     role: 'Rookie Prodigy',
     type: 'Attack',
     age: 18,
