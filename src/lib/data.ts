@@ -379,7 +379,7 @@ export const news: NewsArticle[] = [
     category: 'Announcement',
     date: '2026-11-10',
     readTime: '4 min read',
-    image: '/assets/hero-bg.jpg',
+    image: '/assets/team-photo.jpg',
     featured: true,
     author: 'RBX Media Team',
     excerpt: 'Nine bladers. One roar. Royal Bengal X steps onto the world stage as Bangladesh’s first-ever Beyblade X national team.',
