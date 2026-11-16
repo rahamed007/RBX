@@ -397,7 +397,7 @@ export const news: NewsArticle[] = [
     category: 'Achievement',
     date: '2026-10-22',
     readTime: '3 min read',
-    image: '/assets/events/stage.jpg',
+    image: '/assets/players/cmx.PNG',
     author: 'RBX Media Team',
     excerpt: 'The captain survives a 14-round gauntlet to defend his G1 crown — his 14th career title and fourth of 2026.',
     body: [
