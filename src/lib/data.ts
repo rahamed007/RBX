@@ -66,7 +66,7 @@ export const players: Player[] = [
     city: 'Dhaka',
     joined: '2023',
     tagline: 'The Silent Storm',
-    quote: 'The blade remembers what the hand forgets.',
+    quote: 'Every Spin Has a Purpose, Every Move Has My Control.',
     bio: [
       'Every Spin Has a Purpose, Every Move Has My Control.',
     ],
