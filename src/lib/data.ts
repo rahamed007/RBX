@@ -161,7 +161,7 @@ export const players: Player[] = [
       { name: 'Winter Burst Clash', year: '2025', place: 3, location: 'Sylhet' },
       { name: 'Team League Bangladesh S2', year: '2026', place: 1, location: 'Dhaka' },
     ],
-    image: '/assets/players/nfs.png',
+    image: '/assets/players/nafis.png',
   },
   {
     slug: 'omnix',
