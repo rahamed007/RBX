@@ -68,8 +68,7 @@ export const players: Player[] = [
     tagline: 'The Silent Storm',
     quote: 'The blade remembers what the hand forgets.',
     bio: [
-      'The architect behind RBX. Shadow SF built the organization’s foundations — its training system, its league formats, its academy — before ever stepping onto a podium himself. He competes the way he builds: quietly, precisely, and always one round ahead.',
-      'Wielding Shade Serpent Surge-0, he pioneered the endurance-first meta in Bangladesh and turned stamina battles into chess matches. His Individual League S1 crown proved the quiet storm hits hardest.',
+      'Every Spin Has a Purpose, Every Move Has My Control.',
     ],
     signatureBey: 'Shade Serpent Surge-0',
     stats: { attack: 72, burst: 70, stamina: 96, control: 91 },
@@ -97,8 +96,7 @@ export const players: Player[] = [
     tagline: 'The Iron Claw',
     quote: 'Every burst is a decision. I make mine fast.',
     bio: [
-      'RBX’s vanguard and the team’s opening anchor, Igris treats every first round like a statement. His iron-fisted launches and ruthless ring-outs earned him a reputation as the fastest draw in the squad.',
-      'From the G3 Dhaka Masters podium to Bangladesh’s first hosted international — the Dhaka Dawn International — Igris carries the team’s aggressive identity into every arena he steps into.',
+      'I am Not A Genius also Not a Prodigy that’s why I am more dangerous than any of you,My Magic Power is Not Giving up',
     ],
     signatureBey: 'dran strike 360 RUSH',
     stats: { attack: 92, burst: 86, stamina: 74, control: 80 },
@@ -109,7 +107,7 @@ export const players: Player[] = [
       { name: 'RBX Clash Series Vol. 1', year: '2024', place: 2, location: 'Dhaka' },
       { name: 'Team League Bangladesh S2', year: '2026', place: 1, location: 'Dhaka' },
     ],
-    image: '/assets/players/igris.jpeg',
+    image: '/assets/players/zidan.png',
     featured: true,
   },
   {
