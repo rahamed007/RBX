@@ -72,7 +72,7 @@ export const players: Player[] = [
     ],
     signatureBey: 'Shade Serpent Surge-0',
     stats: { attack: 72, burst: 70, stamina: 96, control: 91 },
-    podium: { first: 11, second: 12, third: 8 },
+    podium: { first: 4, second: 4, third: 1 },
     tournaments: [
       { name: 'Individual League S1', year: '2025', place: 1, location: 'Dhaka' },
       { name: 'Team League Bangladesh S2', year: '2026', place: 1, location: 'Dhaka' },
@@ -207,14 +207,14 @@ export const players: Player[] = [
     ],
     signatureBey: 'Andro Crusher Doom-2',
     stats: { attack: 97, burst: 88, stamina: 68, control: 75 },
-    podium: { first: 11, second: 8, third: 4 },
+    podium: { first: 0, second: 1, third: 1 },
     tournaments: [
       { name: 'RBX New Year Rumble', year: '2026', place: 1, location: 'Dhaka' },
       { name: 'G1 National Ranking', year: '2025', place: 2, location: 'Dhaka' },
       { name: 'G2 Chattogram Clash', year: '2025', place: 3, location: 'Chattogram' },
       { name: 'Team League Bangladesh S2', year: '2026', place: 1, location: 'Dhaka' },
     ],
-    image: '/assets/players/androx.png',
+    image: '/assets/players/androx.jpg',
   },
   {
     slug: 'rayn',
