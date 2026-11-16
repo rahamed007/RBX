@@ -489,8 +489,8 @@ export const galleryAlbums: AlbumKey[] = ['Team Photos', 'Local Tournaments', 'I
 export const galleryItems: GalleryItem[] = [
   { src: '/assets/team-photo.jpg', caption: 'The official Royal Bengal X squad — captain, vice captain and the full roster.', album: 'Team Photos' },
   { src: '/assets/events/team-huddle.jpg', caption: 'The squad before the S2 final — nine blades, one spin.', album: 'Team Photos' },
-  { src: '/assets/players/cmx.jpg', caption: 'Captain CMX — The Tiger’s Edge.', album: 'Team Photos', tall: true },
-  { src: '/assets/players/shadow-sf.jpg', caption: 'Founder & Vice Captain Shadow SF — The Silent Storm.', album: 'Team Photos', tall: true },
+  { src: '/assets/players/cmx.PNG', caption: 'Captain CMX — The Tiger’s Edge.', album: 'Team Photos', tall: true },
+  { src: '/assets/team-photo.jpg', caption: 'Founder & Vice Captain Shadow SF — The Silent Storm.', album: 'Team Photos', tall: true },
   { src: '/assets/events/team-casual.jpg', caption: 'Off the clock, on the road to Malaysia.', album: 'Team Photos' },
   { src: '/assets/events/smoke.jpg', caption: 'Entrance smoke — the roar begins.', album: 'Team Photos' },
   { src: '/assets/events/stage.jpg', caption: 'Main stage, Team League Bangladesh S2 semifinal.', album: 'Local Tournaments' },
